@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ha, i success to add git. -- change
 
 change in local,but no submit to git
+=======
+ha, i success to add git. -- git hub change
+>>>>>>> a0d1fc98c33eb8a071cf7eae46d2131e132a1052
